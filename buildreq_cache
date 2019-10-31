@@ -1,0 +1,4 @@
+0.96
+perl(Debug::ShowStuff)
+perl(String::Util)
+perl(Tie::IxHash)
