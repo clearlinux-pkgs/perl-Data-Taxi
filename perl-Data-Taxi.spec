@@ -4,13 +4,14 @@
 #
 Name     : perl-Data-Taxi
 Version  : 0.96
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Artistic-1.0-Perl
 Requires: perl-Data-Taxi-perl = %{version}-%{release}
+Requires: perl(Debug::ShowStuff)
 BuildRequires : buildreq-cpan
 BuildRequires : perl(Debug::ShowStuff)
 BuildRequires : perl(String::Util)
