@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Taxi
 Version  : 0.96
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Summary  : No detailed summary available
@@ -87,4 +87,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Data/Taxi.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Data/Taxi.pm
