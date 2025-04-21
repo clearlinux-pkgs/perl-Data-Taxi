@@ -7,7 +7,7 @@
 #
 Name     : perl-Data-Taxi
 Version  : 0.96
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Data-Taxi-0.96.tar.gz
 Summary  : No detailed summary available
